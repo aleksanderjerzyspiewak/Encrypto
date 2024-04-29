@@ -1,0 +1,5 @@
+C:\Users\aleks\Desktop\idk\Encrypto\Encrypto\x64\Debug\Encrypto.vcxproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\idk\Encrypto\Encrypto\x64\Debug\Encrypto.MyForm.resources
+C:\Users\aleks\Desktop\idk\Encrypto\Encrypto\x64\Debug\Encrypto.vcxproj.GenerateResource.cache
+C:\Users\aleks\Desktop\idk\Encrypto\Encrypto\x64\Debug\Encrypto.AddLinkForm.resources
+C:\Users\aleks\Desktop\idk\Encrypto\Encrypto\x64\Debug\Encrypto.AddType.resources

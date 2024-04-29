@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AlekCrypto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\AlekCrypto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\AddType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddLinkForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\AddLinkForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddLinkForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\AddLinkForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\EXCEPTION||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\AddType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06EF80AB-7C28-4C7B-A142-B652E61867E0}|Encrypto\\Encrypto.vcxproj|solutionrelative:Encrypto\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlekCrypto.h",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AlekCrypto.h",
+              "RelativeDocumentMoniker": "Encrypto\\AlekCrypto.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AlekCrypto.h",
+              "RelativeToolTip": "Encrypto\\AlekCrypto.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T20:12:25.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddType.h",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddType.h",
+              "RelativeDocumentMoniker": "Encrypto\\AddType.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddType.h",
+              "RelativeToolTip": "Encrypto\\AddType.h",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAAAOgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T18:35:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddType.h [Projekt]",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddType.h",
+              "RelativeDocumentMoniker": "Encrypto\\AddType.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddType.h [Projekt]",
+              "RelativeToolTip": "Encrypto\\AddType.h [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T18:35:08.741Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddLinkForm.h",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddLinkForm.h",
+              "RelativeDocumentMoniker": "Encrypto\\AddLinkForm.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddLinkForm.h",
+              "RelativeToolTip": "Encrypto\\AddLinkForm.h",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAMEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T17:53:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddLinkForm.h [Projekt]",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddLinkForm.h",
+              "RelativeDocumentMoniker": "Encrypto\\AddLinkForm.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\AddLinkForm.h [Projekt]",
+              "RelativeToolTip": "Encrypto\\AddLinkForm.h [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T17:48:28.338Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "exception",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception",
+              "ViewState": "AQIAABQBAAAAAAAAAAAawCIBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-29T17:48:58.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.h",
+              "RelativeDocumentMoniker": "Encrypto\\MyForm.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.h",
+              "RelativeToolTip": "Encrypto\\MyForm.h",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAAAHMBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T23:12:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm.h [Projekt]",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.h",
+              "RelativeDocumentMoniker": "Encrypto\\MyForm.h",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.h [Projekt]",
+              "RelativeToolTip": "Encrypto\\MyForm.h [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T23:02:19.552Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.cpp",
+              "RelativeDocumentMoniker": "Encrypto\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\idk\\Encrypto\\Encrypto\\MyForm.cpp",
+              "RelativeToolTip": "Encrypto\\MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T23:02:03.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
